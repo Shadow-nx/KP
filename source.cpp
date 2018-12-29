@@ -2,7 +2,6 @@
 #include <iostream>
 #include <sstream>
 #include "entity.hpp"
-#include "enemy.hpp"
 #include "player.hpp"
 #include "level.hpp"
 #include <vector>
